@@ -1,6 +1,6 @@
 # Predictive Modeling for Heart Disease Prediction
 
-Objective:
+# Objective:
 The primary objective of this project is to construct a predictive model that can accurately 
 identify individuals at risk of developing heart disease based on their lifestyle factors and 
 behavioral patterns. By leveraging data from the Behavioral Risk Factor Surveillance System 
